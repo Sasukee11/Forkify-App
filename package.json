@@ -7,7 +7,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Aneesh Paul",
+  "author": "Mani",
   "license": "ISC",
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.9.3",
