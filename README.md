@@ -14,7 +14,7 @@ Personal features I added:
 ## Installation
 * Clone this repo:
   ```
-  git clone https://github.com/paulaneesh7/Forkify.git
+  git clone https://github.com/Sasukee11/Forkify-App.git
   ```
 
 * Install dependencies:
